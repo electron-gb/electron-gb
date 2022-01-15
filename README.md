@@ -1,2 +1,3 @@
 ELECTRON is a team of six secondary school students from London, competing in the F1 in Schools STEM Challenge. During the 2020/1 season, we had the honour of representing England at the World Finals, where we won the coveted McLaren Research and Development Award, and finished 6th internationally out of over 40 teams. 
+
 F1 in Schools is an international STEM competition operating in 50 countries, where teams of students design and build a working model F1 car that is raced on a 25m track. Founded in 1999 by Andrew Denford of Denford Manufacturing as a way of fostering STEM education in a competitive and realistic environment, F1 in Schools quickly flourished into a vibrant, multidisciplinary tournament.
